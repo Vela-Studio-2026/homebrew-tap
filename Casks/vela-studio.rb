@@ -1,13 +1,13 @@
 cask "vela-studio" do
-  version "0.3.1"
+  version "0.3.2"
 
   on_arm do
-    sha256 "8d1905880df10e0db136995894ad94b06dae2d49baa3423653552845ccfb93d4"
-    url "https://updates.vela-studio.org/0.3.1/darwin-aarch64/Vela%20Studio_0.3.1_aarch64.dmg"
+    sha256 "04c74f4bc7019b3f27f27e94deced5da52fc7f9a8d2019dc446fc0c2b1022e87"
+    url "https://updates.vela-studio.org/0.3.2/darwin-aarch64/Vela%20Studio_0.3.2_aarch64.dmg"
   end
   on_intel do
-    sha256 "0e66b45f45b55d0a11dc2c1cdc1bf992d53dafa81c5f662aa099c35b57c4be8c"
-    url "https://updates.vela-studio.org/0.3.1/darwin-x86_64/Vela%20Studio_0.3.1_x64.dmg"
+    sha256 "71347d907b558e9e50a4efef75a41e25c9f0581307d697720326c4036fc51c64"
+    url "https://updates.vela-studio.org/0.3.2/darwin-x86_64/Vela%20Studio_0.3.2_x64.dmg"
   end
 
   name "Vela Studio"
